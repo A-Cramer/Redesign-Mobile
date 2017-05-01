@@ -1,0 +1,75 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="UHGredesignmobile.html" resolutions="1x" timestamp="1493668867562">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="254264343" ref="value-based-care:home:index:america---health:healthcare-made-simple"/>
+    <file name="value-based-care.css" crc="357345870" ref="value-based-care"/>
+    <file name="home.css" crc="32465923" ref="home"/>
+    <file name="index.css" crc="137921605" ref="index"/>
+    <file name="america---health.css" crc="4229939538" ref="america---health"/>
+    <file name="healthcare-made-simple.css" crc="65804039" ref="healthcare-made-simple"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home:value-based-care:healthcare-made-simple:america---health"/>
+    <file name="museutils.js" crc="4232573551" ref="index:home:value-based-care:healthcare-made-simple:america---health"/>
+    <file name="whatinput.js" crc="86476730" ref="index:home:value-based-care:healthcare-made-simple:america---health"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:home:value-based-care:healthcare-made-simple:america---health"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:home:value-based-care:healthcare-made-simple:america---health"/>
+    <file name="require.js" crc="4234670167" ref="index:home:value-based-care:healthcare-made-simple:america---health"/>
+  </folder>
+  <folder name="images">
+    <file name="uhlogomobile.jpg" crc="3820557520" seo="true" ref="index:home:value-based-care:healthcare-made-simple:america---health">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="value-based-care" alt=""/>
+      <caption webpage="healthcare-made-simple" alt=""/>
+      <caption webpage="america---health" alt=""/>
+      <caption webpage="america---health" alt=""/>
+    </file>
+    <file name="mobileloginpage.jpg" crc="3958707138" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mobilefooter.jpg" crc="4071703760" seo="true" ref="index:home:value-based-care:healthcare-made-simple:america---health">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="value-based-care" alt=""/>
+      <caption webpage="healthcare-made-simple" alt=""/>
+      <caption webpage="america---health" alt=""/>
+    </file>
+    <file name="homepagemobile.jpg" crc="303111126" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="valuebasedcarebutton.jpg" crc="164072300" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="healthcaremadesimplebutton.jpg" crc="3764070489" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="americaandhealthbutton.jpg" crc="3848567753" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="contactbuttonmobile.jpg" crc="3951866806" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="valuebasedhealthcare.jpg" crc="51263069" seo="true" ref="value-based-care">
+      <caption webpage="value-based-care" alt=""/>
+    </file>
+    <file name="learnmorebuttonmobile.jpg" crc="141742550" seo="true" ref="value-based-care:healthcare-made-simple:america---health">
+      <caption webpage="america---health" alt=""/>
+      <caption webpage="value-based-care" alt=""/>
+      <caption webpage="healthcare-made-simple" alt=""/>
+    </file>
+    <file name="healthcaremadesimplemobile (2).jpg" crc="203686203" seo="true" ref="healthcare-made-simple">
+      <caption webpage="healthcare-made-simple" alt=""/>
+    </file>
+    <file name="americaandhealthmobile.jpg" crc="4027727262" seo="true" ref="america---health">
+      <caption webpage="america---health" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="228366333" seo="true" mt="1493668118634" redirect="true"/>
+  <file name="home.html" crc="71828765" seo="true" mt="1493668118634" redirect="true"/>
+  <file name="value-based-care.html" crc="158951098" seo="true" mt="1493668118634" redirect="true"/>
+  <file name="healthcare-made-simple.html" crc="3858666081" seo="true" mt="1493668118634" redirect="true"/>
+  <file name="america---health.html" crc="179003887" seo="true" mt="1493668118634" redirect="true"/>
+</manifest>
